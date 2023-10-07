@@ -1,0 +1,9 @@
+{
+  "components" : {
+    "schemas" : {
+      "SubscriptionStatusUrlVersion" : {
+        "x-enum-varnames" : [ "V1", "V2", "v1", "v2" ]
+      }
+    }
+  }
+}

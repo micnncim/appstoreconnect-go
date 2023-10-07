@@ -1,0 +1,5 @@
+api/openapi/*.json linguist-generated
+api/openapi/raw/*.json linguist-generated
+
+appstoreconnect/** linguist-generated
+appstoreconnect/.openapi-generator-ignore -linguist-generated
