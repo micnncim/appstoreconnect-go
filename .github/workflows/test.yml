@@ -25,7 +25,7 @@ jobs:
         uses: DeterminateSystems/nix-installer-action@cd46bde16ab981b0a7b2dce0574509104543276e # v9
 
       - name: Cache Nix
-        uses: DeterminateSystems/magic-nix-cache-action@8a218f9e264e9c3803c9a1ee1c30d8e4ab55be63 # v2
+        uses: DeterminateSystems/magic-nix-cache-action@def9f5a5c6a6b8751c0534e8813a5d0ad2635660 # v11
 
       - name: Cache Go
         uses: actions/cache@0c907a75c2c80ebcb7f088228285e798b750cf8f # v4
@@ -57,7 +57,7 @@ jobs:
         uses: DeterminateSystems/nix-installer-action@cd46bde16ab981b0a7b2dce0574509104543276e # v9
 
       - name: Cache Nix
-        uses: DeterminateSystems/magic-nix-cache-action@8a218f9e264e9c3803c9a1ee1c30d8e4ab55be63 # v2
+        uses: DeterminateSystems/magic-nix-cache-action@def9f5a5c6a6b8751c0534e8813a5d0ad2635660 # v11
 
       - name: Cache Go
         uses: actions/cache@0c907a75c2c80ebcb7f088228285e798b750cf8f # v4
