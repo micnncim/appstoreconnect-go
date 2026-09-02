@@ -2,7 +2,7 @@ module github.com/micnncim/appstoreconnect-go
 
 go 1.23.0
 
-toolchain go1.24.0
+toolchain go1.27.1
 
 require (
 	github.com/golang-jwt/jwt/v5 v5.2.1
